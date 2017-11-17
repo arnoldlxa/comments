@@ -1,3 +1,3 @@
 # comments
-  This repo is used to store comments of my blog
-This a  comment based on GitHub Issues and [my blog](http://charleslxa.github.io/).
+This repo is used to store comments of my blog.
+And the comments are based on GitHub Issues and [my blog](http://charleslxa.github.io/).
